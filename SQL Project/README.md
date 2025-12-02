@@ -63,5 +63,6 @@ It includes CRUD operations, joins, aggregate functions, window functions, subqu
 ---
 
 ### 📂 File Reference
+
 This README is generated based on your uploaded SQL file:
-- 📄 SQL Project.sql
+#####  📄 SQL Project.sql
